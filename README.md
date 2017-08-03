@@ -12,4 +12,5 @@
 • Fancier IU \
 • External popup \
 • Ability to click on board instead of naming location \
-• Detect when a game is over (no possible winning moves)
+• Detect when a game is over (no possible winning moves) \
+• AI capabilities
